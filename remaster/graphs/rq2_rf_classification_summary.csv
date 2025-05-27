@@ -1,0 +1,4 @@
+,Accuracy,AUC
+Attention_Only_RF,0.4667,0.3889
+Volume_Only_RF,0.5333,0.6481
+Attention+Volume_RF,0.4,0.3611

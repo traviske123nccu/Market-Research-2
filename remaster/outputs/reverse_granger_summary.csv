@@ -1,0 +1,25 @@
+Volume Column,Attention Index,Lag,p-value,Significant (p<0.05)
+0050.TW_Volume_norm,ETF_Attention_Index,1,0.00026806352339432324,Significant
+0050.TW_Volume_norm,ETF_Attention_Index,2,4.473761766695134e-05,Significant
+2330.TW_Volume_norm,ETF_Attention_Index,1,6.31181345639779e-06,Significant
+2330.TW_Volume_norm,ETF_Attention_Index,2,2.6548811323099124e-05,Significant
+0050.TW_Volume_norm,Stock_Attention_Index,1,9.261361562792008e-06,Significant
+0050.TW_Volume_norm,Stock_Attention_Index,2,1.389941070981564e-08,Significant
+2330.TW_Volume_norm,Stock_Attention_Index,1,4.908629242621112e-09,Significant
+2330.TW_Volume_norm,Stock_Attention_Index,2,1.9746910465255207e-09,Significant
+0050.TW_Volume_norm,Dividend_Attention_Index,1,0.011446463265705809,Significant
+0050.TW_Volume_norm,Dividend_Attention_Index,2,0.004740340518890019,Significant
+2330.TW_Volume_norm,Dividend_Attention_Index,1,0.0001549275939200908,Significant
+2330.TW_Volume_norm,Dividend_Attention_Index,2,0.0003907388344597196,Significant
+0050.TW_Volume_norm,Beginner_Attention_Index,1,0.10290986422918749,x
+0050.TW_Volume_norm,Beginner_Attention_Index,2,0.008914432763584348,Significant
+2330.TW_Volume_norm,Beginner_Attention_Index,1,0.0006373081758073752,Significant
+2330.TW_Volume_norm,Beginner_Attention_Index,2,0.0014319904485217984,Significant
+0050.TW_Volume_norm,Macro_Attention_Index,1,0.012620503833089367,Significant
+0050.TW_Volume_norm,Macro_Attention_Index,2,0.02607208250941557,Significant
+2330.TW_Volume_norm,Macro_Attention_Index,1,0.06277025326667478,x
+2330.TW_Volume_norm,Macro_Attention_Index,2,0.016320736301331143,Significant
+0050.TW_Volume_norm,Tech_Attention_Index,1,0.0002933889419758368,Significant
+0050.TW_Volume_norm,Tech_Attention_Index,2,0.002252206815327827,Significant
+2330.TW_Volume_norm,Tech_Attention_Index,1,2.1412366422920824e-06,Significant
+2330.TW_Volume_norm,Tech_Attention_Index,2,1.6377039538852348e-05,Significant
